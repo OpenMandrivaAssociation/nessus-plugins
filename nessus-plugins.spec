@@ -14,6 +14,7 @@ BuildRequires:	openssl-devel
 BuildRequires:	libnasl-devel = %{version}
 BuildRequires:	nessus-devel >= %{version} 
 BuildRequires:	libnessus-devel >= %{version}
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 Nessus 2.2 is a free, up-to-date, and full featured remote security
