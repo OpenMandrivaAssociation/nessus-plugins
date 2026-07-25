@@ -1,7 +1,7 @@
 Summary:	Nessus security scanner plugins
 Name:		nessus-plugins
 Version:	2.2.10
-Release:	%mkrel 7
+Release:	8
 License:	GPL
 Group:		System/Servers
 URL:		https://www.nessus.org
